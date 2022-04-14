@@ -1,5 +1,5 @@
 {
-	"name": "rootulp-fuel-merkle-sol",
+	"name": "@rootulp/fuel-merkle-sol",
 	"version": "0.1.0",
 	"description": "The Solidity implemention of the Merkle trees used in Fuel v2.",
 	"main": "test/index.js",
